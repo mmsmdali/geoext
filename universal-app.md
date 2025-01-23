@@ -2,11 +2,11 @@
 
 Follow these instructions to build your first GeoExt application, using Sencha `cmd`. Supported versions:
 
-* Sencha Cmd v7.2.0.84
-* ExtJS GPL 7.0.0 (ext.version.number=6.2.0.981)
+* Sencha Cmd v7.0.0+
+* ExtJS GPL 7.0.0 (ext.version.number=7.0.0.168)
 * GeoExt (2024-11-18)
 
-We will create a basic GeoExt based universal app. A universal app should use both the classic and modern toolkit to work on desktop and mobile browsers. At the end of this exercise, you should have an application displaying a OpenLayers 4 map on a panel, both on the desktop and mobile browser.
+We will create a basic GeoExt based universal app. A universal app should use both the classic and modern toolkit to work on desktop and mobile browsers. At the end of this exercise, you should have an application displaying a OpenLayers 10 map on a panel, both on the desktop and mobile browser.
 
 ## ExtJS Universal App
 
@@ -43,7 +43,7 @@ Press `CONTROL-C` to end the local server.
 
 Let's do it! Please make sure that you are able to create the ExtJS Universal App as described. The process to create our first GeoExt is quite similar. The previous app was created to make sure you have all the ExtJS setup up and running.
 
-You already have Sencha cmd and ExtJS 6 working. Let's start with a basic ExtJS application.
+You already have Sencha cmd and ExtJS 7 working. Let's start with a basic ExtJS application.
 
 ```
 cd ~/WebstormProjects
